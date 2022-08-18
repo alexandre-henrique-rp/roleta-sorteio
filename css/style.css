@@ -40,7 +40,7 @@ body {
 .arrow {
     position: absolute;
     left: 104%;
-    top: 43%;
+    top: 40%;
     font-size: 100px;
     color: white;
 }
@@ -103,7 +103,7 @@ span {
 }
 
 .box2 .span5 {
-    background-color: rgb(187, 6, 6);
+    background-color: rgb(255, 0, 0);
 }
 
 .font {
