@@ -12,16 +12,17 @@ body {
     height: 100vh;
     width: 100vw;
     overflow: hidden;
-    background: url('/assets/bg.jpg');
+    /* background: url('/assets/bg.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: center; */
+    background-color: darkgray;
 }
 
 .mainbox {
     position: relative;
     width: 500px;
     height: 500px;
-    margin-top: 50px;
+    margin-top: 200px;
 }
 
 .mainbox:after {
@@ -230,7 +231,8 @@ audio {
 }
 
 @keyframes animateArow {
-    50%{
+    50% {
         right: -50px;
     }
 }
+
