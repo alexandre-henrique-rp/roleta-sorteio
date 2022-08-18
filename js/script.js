@@ -52,9 +52,9 @@ function spin () {
     if ( regua.includes( results[ 0 ] ) ) SelectedItem = "REGUA REDE BRASIL RP";
     if ( perdeu.includes( results[ 0 ] ) ) SelectedItem = "QUE PENA PERDEU A VEZ";
     if ( des10.includes( results[ 0 ] ) ) SelectedItem = "10% DE DESCONTO";
-    if ( caneta.includes( results[ 0 ] ) ) SelectedItem = "CANETA";
-    if ( caneta2.includes( results[ 0 ] ) ) SelectedItem = "CANETA 2";
-    if ( des5.includes( results[ 0 ] ) ) SelectedItem = "5%";
+    if ( caneta.includes( results[ 0 ] ) ) SelectedItem = "CANETA REDE BRASIL RP";
+    if ( caneta2.includes( results[ 0 ] ) ) SelectedItem = "CANETA REDE BRASIL RP";
+    if ( des5.includes( results[ 0 ] ) ) SelectedItem = "5% DE DESCONTO";
 
 
     box.style.setProperty( "transition", "all ease 5s" );
